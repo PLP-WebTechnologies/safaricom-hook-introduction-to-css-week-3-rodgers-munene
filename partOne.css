@@ -1,0 +1,20 @@
+/* Element Selector */
+h1 {
+    font-size: 2em;
+}
+
+/* Class Selector */
+.section {
+    background-color: #f0f0f0;
+    width: 150px;
+    height: 30px;
+    padding: 10px;
+}
+
+/* ID Selector */
+#unique {
+    border: 2px solid #333;
+    width: 150px;
+    height: 30px;
+    padding: 10px;
+}

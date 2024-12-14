@@ -1,0 +1,8 @@
+body {
+    background-color: #cee4d2;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
